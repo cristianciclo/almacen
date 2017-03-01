@@ -14,7 +14,7 @@ Cuando lo descargues o clones los pasos a seguir seran estos:
 # Ejemplo
 Un ejemplo es añadir el pale con codigo 1, peso 10 y 10 cajas
 Luego añadir uno con el mismo codigo y veremos que te dira que el codigo no se puede repetir
-Listamos el pale 1(opcion 3) para ver si se ha introducido correctamente, nos pedira el codigo del pale que queremos ver.
+Listamos el pale (opcion 3) para ver si se ha introducido correctamente
 Introducimos un nuevo pale con codigo 2, peso 20 y 20 cajas
 Listamos todos los pales y debe decirnos que hay 2 pales, pesan 30 kg y hay 30 cajas
 Ahora podemos eliminar un pale (como es una lista, eliminara el ultimo que hemos añadido, en este caso el pale con codigo 2)
