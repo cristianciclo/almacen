@@ -2,6 +2,8 @@
 Esto es un proyecto para la clase de entorno de desarrollo en el cual estamos viendo el funcionamiento de maven y subir proyectos a github.
 # Programa
 Este programa se encarga de llevar y coordinar los pales de un almacen en el cual podras añadir pales, ponerles id, peso, eliminarlos y listarlos, a demas de ir calculando el numero de plaes asi como su peso y el total de las cajas.
+# Requisitos
+Debemos tener instalados Maven y java en el sistema(jdk y jre)
 # Funcionamiento
 Cuando lo descargues o clones los pasos a seguir seran estos:
   1. Nos colocamos en la carpeta del proyecto, donde encontraremos el pom.xml, la carpeta src y este readme.
